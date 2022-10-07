@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyRestaurants</string>
+    <string name="text_hint_search_restaurants">Search Restaurants here…</string>
+    <string name="txt_nothing_found">Nothing Found</string>
+    <string name="rupee_symbol">₹ 10</string>
+    <string name="image_not_found">Image Not Found</string>
+</resources>
